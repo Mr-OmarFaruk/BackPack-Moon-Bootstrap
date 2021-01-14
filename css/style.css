@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+h3,h5{
+    font-family: 'Roboto', sans-serif!important;
+    font-weight: bolder!important;
+    color: #2A1E59;
+}
+.navbar-menu{
+    background-color: #FFFFF4;
+    padding-top: 1em;
+}
+.text{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #2A1E59;
+}
+.text-heighlight{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #76C27E;
+}
+button{
+    color: white!important;
+    background-color: #2A1E59!important;
+}
+.bag-card{
+    border: 0;
+}
+.card-img-top{
+    padding: 30px;
+    background-color: whitesmoke;
+    border: 10px solid white;
+    border-radius: 10%;
+}
+
